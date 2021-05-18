@@ -1,2 +1,2 @@
-ghostscript==9.54.0
-excalibur-py==0.4.3
+ghostscript
+excalibur-py
